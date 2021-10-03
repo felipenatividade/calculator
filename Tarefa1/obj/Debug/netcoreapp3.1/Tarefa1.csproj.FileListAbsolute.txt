@@ -1,0 +1,16 @@
+C:\Users\su-sa\source\repos\Tarefa1\obj\Debug\netcoreapp3.1\Tarefa1.csproj.AssemblyReference.cache
+C:\Users\su-sa\source\repos\Tarefa1\obj\Debug\netcoreapp3.1\Tarefa1.Form1.resources
+C:\Users\su-sa\source\repos\Tarefa1\obj\Debug\netcoreapp3.1\Tarefa1.csproj.GenerateResource.cache
+C:\Users\su-sa\source\repos\Tarefa1\obj\Debug\netcoreapp3.1\Tarefa1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\su-sa\source\repos\Tarefa1\obj\Debug\netcoreapp3.1\Tarefa1.AssemblyInfoInputs.cache
+C:\Users\su-sa\source\repos\Tarefa1\obj\Debug\netcoreapp3.1\Tarefa1.AssemblyInfo.cs
+C:\Users\su-sa\source\repos\Tarefa1\obj\Debug\netcoreapp3.1\Tarefa1.csproj.CoreCompileInputs.cache
+C:\Users\su-sa\source\repos\Tarefa1\bin\Debug\netcoreapp3.1\Tarefa1.exe
+C:\Users\su-sa\source\repos\Tarefa1\bin\Debug\netcoreapp3.1\Tarefa1.deps.json
+C:\Users\su-sa\source\repos\Tarefa1\bin\Debug\netcoreapp3.1\Tarefa1.runtimeconfig.json
+C:\Users\su-sa\source\repos\Tarefa1\bin\Debug\netcoreapp3.1\Tarefa1.runtimeconfig.dev.json
+C:\Users\su-sa\source\repos\Tarefa1\bin\Debug\netcoreapp3.1\Tarefa1.dll
+C:\Users\su-sa\source\repos\Tarefa1\bin\Debug\netcoreapp3.1\Tarefa1.pdb
+C:\Users\su-sa\source\repos\Tarefa1\obj\Debug\netcoreapp3.1\Tarefa1.dll
+C:\Users\su-sa\source\repos\Tarefa1\obj\Debug\netcoreapp3.1\Tarefa1.pdb
+C:\Users\su-sa\source\repos\Tarefa1\obj\Debug\netcoreapp3.1\Tarefa1.genruntimeconfig.cache
